@@ -2,6 +2,11 @@
 
 A small package to parse Wolfram Mathematica distributions and get pomegranate objects instead, so it is operable from python. For the reference on how to use distributions from pomegranate consult [their documentation](https://pomegranate.readthedocs.io/en/latest/index.html)
 
+## Install with pip
+```
+pip install pomegranate-mathematica
+```
+
 ## Requirements
 
 * pomegranate (only tested for 0.11)
